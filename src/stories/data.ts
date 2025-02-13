@@ -1,0 +1,17 @@
+export const countries: { commonName: string; cca2: string }[] = [
+  { commonName: "United States", cca2: "US" },
+  { commonName: "Canada", cca2: "CA" },
+  { commonName: "Germany", cca2: "DE" },
+  { commonName: "France", cca2: "FR" },
+  { commonName: "Italy", cca2: "IT" },
+  { commonName: "Spain", cca2: "ES" },
+  { commonName: "Australia", cca2: "AU" },
+  { commonName: "Brazil", cca2: "BR" },
+  { commonName: "India", cca2: "IN" },
+  { commonName: "China", cca2: "CN" },
+  { commonName: "Japan", cca2: "JP" },
+  { commonName: "South Korea", cca2: "KR" },
+  { commonName: "Russia", cca2: "RU" },
+  { commonName: "Mexico", cca2: "MX" },
+  { commonName: "United Kingdom", cca2: "GB" },
+];
